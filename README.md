@@ -1,5 +1,5 @@
 # Through the Looking Glass
-This is a subset of our WEIRD dataset that we used to evaluate the Through the Looking Glass (TGL) approach to common sense violation detection in images. There are 30 images along with annotations in data.jsonl. 
+This is a small subset of our WEIRD dataset, which we used to evaluate the Through the Looking Glass (TGL) approach to detecting common sense violations in images. There are 30 images (due to GitHub limitations) along with annotations in data.jsonl. The full version of the dataset contains 824 images.
 
 Example of the dataset sample:
 ```
@@ -11,3 +11,4 @@ Example of the dataset sample:
   'class': 'normal' # The class (normal / weird)
 }
 ```
+
