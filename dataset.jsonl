@@ -1,0 +1,814 @@
+{"id": 11, "path": "images/image_11", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inappropriate tool usage", "class": "normal"}
+{"id": 12, "path": "images/image_12", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Misplacement", "class": "normal"}
+{"id": 13, "path": "images/image_13", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size and Weight Incongruity", "class": "normal"}
+{"id": 14, "path": "images/image_14", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "weird"}
+{"id": 15, "path": "images/image_15", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Inability to execute", "class": "normal"}
+{"id": 16, "path": "images/image_16", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unusual Communication Methods", "class": "normal"}
+{"id": 17, "path": "images/image_17", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Purpose Misuse", "class": "normal"}
+{"id": 18, "path": "images/image_18", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Unusual Object Usage", "class": "normal"}
+{"id": 19, "path": "images/image_19", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "weird"}
+{"id": 20, "path": "images/image_20", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Food Mismatch", "class": "weird"}
+{"id": 21, "path": "images/image_21", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Incorrect Animal Behavior", "class": "weird"}
+{"id": 22, "path": "images/image_22", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "weird"}
+{"id": 23, "path": "images/image_23", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Immobility Alteration", "class": "weird"}
+{"id": 24, "path": "images/image_24", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "weird"}
+{"id": 25, "path": "images/image_25", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "normal"}
+{"id": 26, "path": "images/image_26", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size Incongruence", "class": "normal"}
+{"id": 27, "path": "images/image_27", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Impossible interaction", "class": "weird"}
+{"id": 28, "path": "images/image_28", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Confusion", "class": "weird"}
+{"id": 29, "path": "images/image_29", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "weird"}
+{"id": 30, "path": "images/image_30", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unusual animal behavior", "class": "normal"}
+{"id": 31, "path": "images/image_31", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role/Species Mismatch", "class": "normal"}
+{"id": 32, "path": "images/image_32", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Usage Incongruence", "class": "weird"}
+{"id": 33, "path": "images/image_33", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unusual animal behavior", "class": "weird"}
+{"id": 34, "path": "images/image_34", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Behavior", "class": "normal"}
+{"id": 35, "path": "images/image_35", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unfit Occupation", "class": "normal"}
+{"id": 36, "path": "images/image_36", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role reversal", "class": "normal"}
+{"id": 37, "path": "images/image_37", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Travelling Objects", "class": "weird"}
+{"id": 38, "path": "images/image_38", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unsuitable environment", "class": "weird"}
+{"id": 39, "path": "images/image_39", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Quantity/Multiplicity Error", "class": "normal"}
+{"id": 40, "path": "images/image_40", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inappropriate Contexts for Objects", "class": "weird"}
+{"id": 41, "path": "images/image_41", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Refraction mismatch", "class": "weird"}
+{"id": 42, "path": "images/image_42", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Physical Law Violation", "class": "normal"}
+{"id": 43, "path": "images/image_43", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "normal"}
+{"id": 44, "path": "images/image_44", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Miscommunication with Animals", "class": "weird"}
+{"id": 45, "path": "images/image_45", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Misidentified Tools", "class": "weird"}
+{"id": 46, "path": "images/image_46", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Inconsistency", "class": "normal"}
+{"id": 47, "path": "images/image_47", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "weird"}
+{"id": 48, "path": "images/image_48", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Food Mismatch", "class": "normal"}
+{"id": 49, "path": "images/image_49", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Usage Incongruence", "class": "normal"}
+{"id": 50, "path": "images/image_50", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 51, "path": "images/image_51", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Historical anachronism", "class": "normal"}
+{"id": 52, "path": "images/image_52", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological rules", "class": "weird"}
+{"id": 53, "path": "images/image_53", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Inability to execute", "class": "normal"}
+{"id": 54, "path": "images/image_54", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "normal"}
+{"id": 55, "path": "images/image_55", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Inability to execute", "class": "weird"}
+{"id": 56, "path": "images/image_56", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Animals", "class": "weird"}
+{"id": 57, "path": "images/image_57", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inanimate Objects Misinterpretation", "class": "weird"}
+{"id": 58, "path": "images/image_58", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "weird"}
+{"id": 59, "path": "images/image_59", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Folklore knowledge", "class": "weird"}
+{"id": 60, "path": "images/image_60", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Travelling Objects", "class": "normal"}
+{"id": 61, "path": "images/image_61", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological rules", "class": "normal"}
+{"id": 62, "path": "images/image_62", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role reversal", "class": "weird"}
+{"id": 63, "path": "images/image_63", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Impossible Animal Behavior", "class": "weird"}
+{"id": 64, "path": "images/image_64", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Temperature Expectation", "class": "weird"}
+{"id": 65, "path": "images/image_65", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "normal"}
+{"id": 66, "path": "images/image_66", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Inability to execute", "class": "weird"}
+{"id": 67, "path": "images/image_67", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Home Objects", "class": "normal"}
+{"id": 68, "path": "images/image_68", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "normal"}
+{"id": 69, "path": "images/image_69", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological rules", "class": "weird"}
+{"id": 70, "path": "images/image_70", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 71, "path": "images/image_71", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Travelling Objects", "class": "normal"}
+{"id": 72, "path": "images/image_72", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "weird"}
+{"id": 73, "path": "images/image_73", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Visual similarity", "class": "weird"}
+{"id": 74, "path": "images/image_74", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Folklore knowledge", "class": "normal"}
+{"id": 75, "path": "images/image_75", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Timeless Artifact Misplacement", "class": "weird"}
+{"id": 76, "path": "images/image_76", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "weird"}
+{"id": 77, "path": "images/image_77", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "weird"}
+{"id": 78, "path": "images/image_78", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Visual similarity", "class": "weird"}
+{"id": 79, "path": "images/image_79", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Inverted Roles", "class": "weird"}
+{"id": 80, "path": "images/image_80", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "normal"}
+{"id": 81, "path": "images/image_81", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Social conventions", "class": "weird"}
+{"id": 82, "path": "images/image_82", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unusual Jobs", "class": "weird"}
+{"id": 83, "path": "images/image_83", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Home Objects", "class": "weird"}
+{"id": 84, "path": "images/image_84", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role reversal", "class": "normal"}
+{"id": 85, "path": "images/image_85", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "normal"}
+{"id": 86, "path": "images/image_86", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Reversed Utility", "class": "normal"}
+{"id": 87, "path": "images/image_87", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "weird"}
+{"id": 88, "path": "images/image_88", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "weird"}
+{"id": 89, "path": "images/image_89", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Activity mismatch", "class": "weird"}
+{"id": 90, "path": "images/image_90", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "weird"}
+{"id": 91, "path": "images/image_91", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Logical structure mismatch", "class": "weird"}
+{"id": 92, "path": "images/image_92", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Incorrect Animal Behavior", "class": "normal"}
+{"id": 93, "path": "images/image_93", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Indoor/Outdoor Confusion", "class": "weird"}
+{"id": 94, "path": "images/image_94", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Impossibility", "class": "weird"}
+{"id": 95, "path": "images/image_95", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Unusual Object Usage", "class": "weird"}
+{"id": 96, "path": "images/image_96", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal", "class": "weird"}
+{"id": 97, "path": "images/image_97", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Abilities", "class": "weird"}
+{"id": 98, "path": "images/image_98", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Misplaced concepts", "class": "weird"}
+{"id": 99, "path": "images/image_99", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unexpected environments", "class": "normal"}
+{"id": 100, "path": "images/image_100", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Clothing Functionality", "class": "weird"}
+{"id": 101, "path": "images/image_101", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size and Weight Incongruity", "class": "weird"}
+{"id": 102, "path": "images/image_102", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Clothing mismatch", "class": "weird"}
+{"id": 103, "path": "images/image_103", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Displacement", "class": "normal"}
+{"id": 104, "path": "images/image_104", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Displacement", "class": "weird"}
+{"id": 105, "path": "images/image_105", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Reversal", "class": "normal"}
+{"id": 106, "path": "images/image_106", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "weird"}
+{"id": 107, "path": "images/image_107", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Impractical Uses of Items", "class": "weird"}
+{"id": 108, "path": "images/image_108", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unsuitable environment", "class": "normal"}
+{"id": 109, "path": "images/image_109", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Clothing mismatch", "class": "normal"}
+{"id": 110, "path": "images/image_110", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inappropriate tool usage", "class": "weird"}
+{"id": 111, "path": "images/image_111", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Growth Misunderstanding", "class": "weird"}
+{"id": 112, "path": "images/image_112", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Food Inappropriateness", "class": "normal"}
+{"id": 113, "path": "images/image_113", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Geographical Discrepancy", "class": "normal"}
+{"id": 114, "path": "images/image_114", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "normal"}
+{"id": 115, "path": "images/image_115", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unsuitable environment", "class": "normal"}
+{"id": 116, "path": "images/image_116", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Profession Mismatch", "class": "weird"}
+{"id": 117, "path": "images/image_117", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "normal"}
+{"id": 118, "path": "images/image_118", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size Incongruence", "class": "weird"}
+{"id": 119, "path": "images/image_119", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological rules", "class": "normal"}
+{"id": 120, "path": "images/image_120", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Misplaced concepts", "class": "weird"}
+{"id": 121, "path": "images/image_121", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Misidentified Tools", "class": "normal"}
+{"id": 122, "path": "images/image_122", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "normal"}
+{"id": 123, "path": "images/image_123", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "weird"}
+{"id": 124, "path": "images/image_124", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Misplaced concepts", "class": "normal"}
+{"id": 125, "path": "images/image_125", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Untypical behavior", "class": "weird"}
+{"id": 126, "path": "images/image_126", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "normal"}
+{"id": 127, "path": "images/image_127", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Quantity/Multiplicity Error", "class": "weird"}
+{"id": 128, "path": "images/image_128", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Profession Mismatch", "class": "normal"}
+{"id": 129, "path": "images/image_129", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inanimate Objects Misinterpretation", "class": "normal"}
+{"id": 130, "path": "images/image_130", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Job Role Mismatch", "class": "normal"}
+{"id": 131, "path": "images/image_131", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Habitat Appropriateness", "class": "normal"}
+{"id": 132, "path": "images/image_132", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Growth Misunderstanding", "class": "normal"}
+{"id": 133, "path": "images/image_133", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Function Misuse", "class": "weird"}
+{"id": 134, "path": "images/image_134", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Natural Reactions", "class": "normal"}
+{"id": 135, "path": "images/image_135", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unfit Occupation", "class": "weird"}
+{"id": 136, "path": "images/image_136", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Geographic mismatch", "class": "weird"}
+{"id": 137, "path": "images/image_137", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Impractical Uses of Items", "class": "normal"}
+{"id": 138, "path": "images/image_138", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "weird"}
+{"id": 139, "path": "images/image_139", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 140, "path": "images/image_140", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Behavior", "class": "weird"}
+{"id": 141, "path": "images/image_141", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Surreal Weather Phenomena", "class": "normal"}
+{"id": 142, "path": "images/image_142", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Logical structure mismatch", "class": "normal"}
+{"id": 143, "path": "images/image_143", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Immobility Alteration", "class": "weird"}
+{"id": 144, "path": "images/image_144", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Confusion", "class": "normal"}
+{"id": 145, "path": "images/image_145", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "normal"}
+{"id": 146, "path": "images/image_146", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Purpose Misuse", "class": "weird"}
+{"id": 147, "path": "images/image_147", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "normal"}
+{"id": 148, "path": "images/image_148", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Anachronism", "class": "weird"}
+{"id": 149, "path": "images/image_149", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Incorrect usage", "class": "weird"}
+{"id": 150, "path": "images/image_150", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Refraction mismatch", "class": "normal"}
+{"id": 151, "path": "images/image_151", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Cultural knowledge", "class": "normal"}
+{"id": 152, "path": "images/image_152", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Temperature Expectation", "class": "normal"}
+{"id": 153, "path": "images/image_153", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "normal"}
+{"id": 154, "path": "images/image_154", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unsuitable environment", "class": "weird"}
+{"id": 155, "path": "images/image_155", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 156, "path": "images/image_156", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "normal"}
+{"id": 157, "path": "images/image_157", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "normal"}
+{"id": 158, "path": "images/image_158", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Travelling Objects", "class": "normal"}
+{"id": 159, "path": "images/image_159", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Clothing Functionality", "class": "normal"}
+{"id": 160, "path": "images/image_160", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Cultural knowledge", "class": "weird"}
+{"id": 161, "path": "images/image_161", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Logical structure contradiction", "class": "weird"}
+{"id": 162, "path": "images/image_162", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Temperature Expectation", "class": "normal"}
+{"id": 163, "path": "images/image_163", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Cultural knowledge", "class": "normal"}
+{"id": 164, "path": "images/image_164", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Travelling Objects", "class": "weird"}
+{"id": 165, "path": "images/image_165", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unsuitable environment", "class": "normal"}
+{"id": 166, "path": "images/image_166", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Social conventions", "class": "normal"}
+{"id": 167, "path": "images/image_167", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "weird"}
+{"id": 168, "path": "images/image_168", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Visual similarity", "class": "normal"}
+{"id": 169, "path": "images/image_169", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unexpected environments", "class": "weird"}
+{"id": 170, "path": "images/image_170", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Food Mismatch", "class": "normal"}
+{"id": 171, "path": "images/image_171", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Abilities", "class": "normal"}
+{"id": 172, "path": "images/image_172", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size Mismatch", "class": "weird"}
+{"id": 173, "path": "images/image_173", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object/Context Mismatch", "class": "normal"}
+{"id": 174, "path": "images/image_174", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "normal"}
+{"id": 175, "path": "images/image_175", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inappropriate Contexts for Objects", "class": "normal"}
+{"id": 176, "path": "images/image_176", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Abilities", "class": "normal"}
+{"id": 177, "path": "images/image_177", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Natural Reactions", "class": "weird"}
+{"id": 178, "path": "images/image_178", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Habitat Appropriateness", "class": "weird"}
+{"id": 179, "path": "images/image_179", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "weird"}
+{"id": 180, "path": "images/image_180", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Logical structure mismatch", "class": "normal"}
+{"id": 181, "path": "images/image_181", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unusual Habitat Inhabitants", "class": "normal"}
+{"id": 182, "path": "images/image_182", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Timeless Artifact Misplacement", "class": "normal"}
+{"id": 183, "path": "images/image_183", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Misidentified Tools", "class": "normal"}
+{"id": 184, "path": "images/image_184", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Job Role Mismatch", "class": "weird"}
+{"id": 185, "path": "images/image_185", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "normal"}
+{"id": 186, "path": "images/image_186", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal ", "class": "normal"}
+{"id": 187, "path": "images/image_187", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Logical structure contradiction", "class": "normal"}
+{"id": 188, "path": "images/image_188", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Historical Inconsistency", "class": "weird"}
+{"id": 189, "path": "images/image_189", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Internal Motion Impossibility", "class": "weird"}
+{"id": 190, "path": "images/image_190", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Miscommunication with Animals", "class": "normal"}
+{"id": 191, "path": "images/image_191", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "normal"}
+{"id": 192, "path": "images/image_192", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Function Misuse", "class": "normal"}
+{"id": 193, "path": "images/image_193", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Misidentified Tools", "class": "weird"}
+{"id": 194, "path": "images/image_194", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Reversed Utility", "class": "weird"}
+{"id": 195, "path": "images/image_195", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Physical Law Violation", "class": "weird"}
+{"id": 196, "path": "images/image_196", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Geographical Discrepancy", "class": "weird"}
+{"id": 197, "path": "images/image_197", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Misplaced Scale", "class": "weird"}
+{"id": 198, "path": "images/image_198", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role/Context Mismatch", "class": "normal"}
+{"id": 199, "path": "images/image_199", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Internal Motion Impossibility", "class": "normal"}
+{"id": 200, "path": "images/image_200", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Historical Inconsistency", "class": "normal"}
+{"id": 201, "path": "images/image_201", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object/Context Mismatch", "class": "weird"}
+{"id": 202, "path": "images/image_202", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "weird"}
+{"id": 203, "path": "images/image_203", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Activity mismatch", "class": "normal"}
+{"id": 204, "path": "images/image_204", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Impossible Animal Behavior", "class": "normal"}
+{"id": 205, "path": "images/image_205", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Communication", "class": "weird"}
+{"id": 206, "path": "images/image_206", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Visual similarity", "class": "normal"}
+{"id": 207, "path": "images/image_207", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Misplacement", "class": "weird"}
+{"id": 208, "path": "images/image_208", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Social conventions", "class": "weird"}
+{"id": 209, "path": "images/image_209", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Communication", "class": "normal"}
+{"id": 210, "path": "images/image_210", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Reversal", "class": "weird"}
+{"id": 211, "path": "images/image_211", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Logical structure mismatch", "class": "weird"}
+{"id": 212, "path": "images/image_212", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Cultural knowledge", "class": "weird"}
+{"id": 213, "path": "images/image_213", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Incorrect Animal Behavior", "class": "weird"}
+{"id": 214, "path": "images/image_214", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Abilities", "class": "weird"}
+{"id": 215, "path": "images/image_215", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Temperature Expectation", "class": "weird"}
+{"id": 216, "path": "images/image_216", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Temperature Illusion", "class": "weird"}
+{"id": 217, "path": "images/image_217", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role reversal", "class": "weird"}
+{"id": 218, "path": "images/image_218", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Temperature Illusion", "class": "normal"}
+{"id": 219, "path": "images/image_219", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Activity mismatch", "class": "normal"}
+{"id": 220, "path": "images/image_220", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inappropriate Use of Objects ", "class": "normal"}
+{"id": 221, "path": "images/image_221", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal ", "class": "weird"}
+{"id": 222, "path": "images/image_222", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inanimate object performing actions", "class": "weird"}
+{"id": 223, "path": "images/image_223", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object functionality", "class": "normal"}
+{"id": 224, "path": "images/image_224", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal", "class": "normal"}
+{"id": 225, "path": "images/image_225", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "weird"}
+{"id": 226, "path": "images/image_226", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Misplaced Scale", "class": "normal"}
+{"id": 227, "path": "images/image_227", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 228, "path": "images/image_228", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 229, "path": "images/image_229", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Reversed roles", "class": "weird"}
+{"id": 230, "path": "images/image_230", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Inability to execute", "class": "normal"}
+{"id": 231, "path": "images/image_231", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Anachronism", "class": "normal"}
+{"id": 232, "path": "images/image_232", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Rules", "class": "normal"}
+{"id": 233, "path": "images/image_233", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Wildlife", "class": "weird"}
+{"id": 234, "path": "images/image_234", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "weird"}
+{"id": 235, "path": "images/image_235", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Immobility Alteration", "class": "normal"}
+{"id": 236, "path": "images/image_236", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Indoor/Outdoor Confusion", "class": "normal"}
+{"id": 237, "path": "images/image_237", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Historical anachronism", "class": "weird"}
+{"id": 238, "path": "images/image_238", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Immobility Alteration", "class": "normal"}
+{"id": 239, "path": "images/image_239", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Incorrect usage", "class": "normal"}
+{"id": 240, "path": "images/image_240", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "normal"}
+{"id": 241, "path": "images/image_241", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unusual Jobs", "class": "normal"}
+{"id": 242, "path": "images/image_242", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role/Species Mismatch", "class": "weird"}
+{"id": 243, "path": "images/image_243", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Food Inappropriateness", "class": "weird"}
+{"id": 244, "path": "images/image_244", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Misplaced concepts", "class": "normal"}
+{"id": 245, "path": "images/image_245", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inanimate object performing actions", "class": "normal"}
+{"id": 246, "path": "images/image_246", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Inability to execute", "class": "weird"}
+{"id": 247, "path": "images/image_247", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Surreal Weather Phenomena", "class": "weird"}
+{"id": 248, "path": "images/image_248", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Inverted Roles", "class": "normal"}
+{"id": 249, "path": "images/image_249", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role/Context Mismatch", "class": "weird"}
+{"id": 250, "path": "images/image_250", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unsuitable environment", "class": "weird"}
+{"id": 251, "path": "images/image_251", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Quantity/Multiplicity Error", "class": "weird"}
+{"id": 252, "path": "images/image_252", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Rules", "class": "weird"}
+{"id": 253, "path": "images/image_253", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Inconsistency", "class": "weird"}
+{"id": 254, "path": "images/image_254", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Impossibility", "class": "normal"}
+{"id": 255, "path": "images/image_255", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Travelling Objects", "class": "weird"}
+{"id": 256, "path": "images/image_256", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "weird"}
+{"id": 257, "path": "images/image_257", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Impossible Human Abilities", "class": "normal"}
+{"id": 258, "path": "images/image_258", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Human Behavior in Animals", "class": "normal"}
+{"id": 259, "path": "images/image_259", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Impossible Human Abilities", "class": "weird"}
+{"id": 260, "path": "images/image_260", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 261, "path": "images/image_261", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inappropriate Use of Objects ", "class": "weird"}
+{"id": 262, "path": "images/image_262", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Human Behavior in Animals", "class": "weird"}
+{"id": 263, "path": "images/image_263", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "normal"}
+{"id": 264, "path": "images/image_264", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "normal"}
+{"id": 265, "path": "images/image_265", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Contextual Element Error", "class": "normal"}
+{"id": 266, "path": "images/image_266", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unusual Communication Methods", "class": "weird"}
+{"id": 267, "path": "images/image_267", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Activity mismatch", "class": "weird"}
+{"id": 268, "path": "images/image_268", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Impossible interaction", "class": "normal"}
+{"id": 269, "path": "images/image_269", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Incorrect Animal Behavior", "class": "normal"}
+{"id": 270, "path": "images/image_270", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Quantity/Multiplicity Error", "class": "normal"}
+{"id": 271, "path": "images/image_271", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Animals", "class": "normal"}
+{"id": 272, "path": "images/image_272", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size Mismatch", "class": "normal"}
+{"id": 273, "path": "images/image_273", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "weird"}
+{"id": 274, "path": "images/image_274", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "weird"}
+{"id": 275, "path": "images/image_275", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Wildlife", "class": "normal"}
+{"id": 276, "path": "images/image_276", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Geographic mismatch", "class": "normal"}
+{"id": 277, "path": "images/image_277", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal discrepancy", "class": "weird"}
+{"id": 278, "path": "images/image_278", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Inability to execute", "class": "normal"}
+{"id": 279, "path": "images/image_279", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 280, "path": "images/image_280", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Quantity/Multiplicity Error", "class": "normal"}
+{"id": 281, "path": "images/image_281", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "weird"}
+{"id": 282, "path": "images/image_282", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Fantasy object functionality", "class": "weird"}
+{"id": 283, "path": "images/image_283", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "normal"}
+{"id": 284, "path": "images/image_284", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 285, "path": "images/image_285", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Misplaced Scale", "class": "normal"}
+{"id": 286, "path": "images/image_286", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal", "class": "normal"}
+{"id": 287, "path": "images/image_287", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Ill-suited Clothing/Attire", "class": "weird"}
+{"id": 288, "path": "images/image_288", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Misplaced Scale", "class": "weird"}
+{"id": 289, "path": "images/image_289", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 290, "path": "images/image_290", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Weather Mismatch", "class": "weird"}
+{"id": 291, "path": "images/image_291", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Ill-suited Clothing/Attire", "class": "normal"}
+{"id": 292, "path": "images/image_292", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Social conventions", "class": "weird"}
+{"id": 293, "path": "images/image_293", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Animals", "class": "weird"}
+{"id": 294, "path": "images/image_294", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Usage Incongruence", "class": "normal"}
+{"id": 295, "path": "images/image_295", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unnatural environment", "class": "weird"}
+{"id": 296, "path": "images/image_296", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Communication mismatch", "class": "weird"}
+{"id": 297, "path": "images/image_297", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Geographical Discrepancy", "class": "normal"}
+{"id": 298, "path": "images/image_298", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role/Context Mismatch", "class": "normal"}
+{"id": 299, "path": "images/image_299", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Timeless Artifact Misplacement", "class": "weird"}
+{"id": 300, "path": "images/image_300", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "normal"}
+{"id": 301, "path": "images/image_301", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Logical Abilities in Animals", "class": "weird"}
+{"id": 302, "path": "images/image_302", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Misplaced concepts", "class": "weird"}
+{"id": 303, "path": "images/image_303", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Indoor/Outdoor Confusion", "class": "weird"}
+{"id": 304, "path": "images/image_304", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "weird"}
+{"id": 305, "path": "images/image_305", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Communication", "class": "normal"}
+{"id": 306, "path": "images/image_306", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal", "class": "normal"}
+{"id": 307, "path": "images/image_307", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Quantity/Multiplicity Error", "class": "normal"}
+{"id": 308, "path": "images/image_308", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Communication", "class": "weird"}
+{"id": 309, "path": "images/image_309", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Communication mismatch", "class": "weird"}
+{"id": 310, "path": "images/image_310", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Inversion", "class": "weird"}
+{"id": 311, "path": "images/image_311", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Task-Tool Mismatch", "class": "normal"}
+{"id": 312, "path": "images/image_312", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unnatural environment", "class": "normal"}
+{"id": 313, "path": "images/image_313", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "normal"}
+{"id": 314, "path": "images/image_314", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Material Mismatch", "class": "normal"}
+{"id": 315, "path": "images/image_315", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Inversion", "class": "weird"}
+{"id": 316, "path": "images/image_316", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Indoor/Outdoor Confusion", "class": "weird"}
+{"id": 317, "path": "images/image_317", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Inversion", "class": "normal"}
+{"id": 318, "path": "images/image_318", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Displacement", "class": "normal"}
+{"id": 319, "path": "images/image_319", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "normal"}
+{"id": 320, "path": "images/image_320", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "normal"}
+{"id": 321, "path": "images/image_321", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "weird"}
+{"id": 322, "path": "images/image_322", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Quantity/Multiplicity Error", "class": "weird"}
+{"id": 323, "path": "images/image_323", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion Impossibility", "class": "normal"}
+{"id": 324, "path": "images/image_324", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Period Incongruity", "class": "weird"}
+{"id": 325, "path": "images/image_325", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unusual Behaviors", "class": "normal"}
+{"id": 326, "path": "images/image_326", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Inconsistent Sizes", "class": "normal"}
+{"id": 327, "path": "images/image_327", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Home Objects", "class": "normal"}
+{"id": 328, "path": "images/image_328", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature Inconsistency", "class": "normal"}
+{"id": 329, "path": "images/image_329", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Displacement", "class": "weird"}
+{"id": 330, "path": "images/image_330", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unusual Communication", "class": "normal"}
+{"id": 331, "path": "images/image_331", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Human-Animal Role Reversal", "class": "normal"}
+{"id": 332, "path": "images/image_332", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "normal"}
+{"id": 333, "path": "images/image_333", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Clothing mismatch", "class": "normal"}
+{"id": 334, "path": "images/image_334", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Impossible Time Combination", "class": "weird"}
+{"id": 335, "path": "images/image_335", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size and Scale Illusion", "class": "weird"}
+{"id": 336, "path": "images/image_336", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "weird"}
+{"id": 337, "path": "images/image_337", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal in Nature", "class": "normal"}
+{"id": 338, "path": "images/image_338", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object shape", "class": "normal"}
+{"id": 339, "path": "images/image_339", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Travelling Objects", "class": "normal"}
+{"id": 340, "path": "images/image_340", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Communication mismatch", "class": "normal"}
+{"id": 341, "path": "images/image_341", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Gravity Defiance", "class": "normal"}
+{"id": 342, "path": "images/image_342", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "weird"}
+{"id": 343, "path": "images/image_343", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Reversed Utility", "class": "normal"}
+{"id": 344, "path": "images/image_344", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Reversal", "class": "normal"}
+{"id": 345, "path": "images/image_345", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "normal"}
+{"id": 346, "path": "images/image_346", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "weird"}
+{"id": 347, "path": "images/image_347", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Unnatural Abilities", "class": "normal"}
+{"id": 348, "path": "images/image_348", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Animals", "class": "normal"}
+{"id": 349, "path": "images/image_349", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Unexpected outcomes", "class": "weird"}
+{"id": 350, "path": "images/image_350", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Social conventions", "class": "weird"}
+{"id": 351, "path": "images/image_351", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unusual Behaviors", "class": "weird"}
+{"id": 352, "path": "images/image_352", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Communication mismatch", "class": "normal"}
+{"id": 353, "path": "images/image_353", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Unnatural Living Behavior", "class": "weird"}
+{"id": 354, "path": "images/image_354", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Time-Displaced Fashion Trends", "class": "normal"}
+{"id": 355, "path": "images/image_355", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Incorrect usage", "class": "normal"}
+{"id": 356, "path": "images/image_356", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Refraction mismatch", "class": "weird"}
+{"id": 357, "path": "images/image_357", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion Impossibility", "class": "normal"}
+{"id": 358, "path": "images/image_358", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "weird"}
+{"id": 359, "path": "images/image_359", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unusual Habitat Inhabitants", "class": "weird"}
+{"id": 360, "path": "images/image_360", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal in Nature", "class": "weird"}
+{"id": 361, "path": "images/image_361", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Job Role Mismatch", "class": "weird"}
+{"id": 362, "path": "images/image_362", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Home Objects", "class": "weird"}
+{"id": 363, "path": "images/image_363", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "weird"}
+{"id": 364, "path": "images/image_364", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Meal Misplacement", "class": "weird"}
+{"id": 365, "path": "images/image_365", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Usage Incongruence", "class": "weird"}
+{"id": 366, "path": "images/image_366", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Abilities", "class": "normal"}
+{"id": 367, "path": "images/image_367", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Job Role Mismatch", "class": "normal"}
+{"id": 368, "path": "images/image_368", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Impossibilities", "class": "normal"}
+{"id": 369, "path": "images/image_369", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "weird"}
+{"id": 370, "path": "images/image_370", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Inconsistent Sizes", "class": "normal"}
+{"id": 371, "path": "images/image_371", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal ", "class": "normal"}
+{"id": 372, "path": "images/image_372", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Displacement", "class": "normal"}
+{"id": 373, "path": "images/image_373", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Household Object Misuse", "class": "normal"}
+{"id": 374, "path": "images/image_374", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unrealistic animal behavior", "class": "normal"}
+{"id": 375, "path": "images/image_375", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Quantity/Multiplicity Error", "class": "weird"}
+{"id": 376, "path": "images/image_376", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Environmental Misfit", "class": "weird"}
+{"id": 377, "path": "images/image_377", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Task-Tool Mismatch", "class": "weird"}
+{"id": 378, "path": "images/image_378", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Reversed Utility", "class": "weird"}
+{"id": 379, "path": "images/image_379", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "normal"}
+{"id": 380, "path": "images/image_380", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size and Scale Illusion", "class": "normal"}
+{"id": 381, "path": "images/image_381", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Reversed Utility", "class": "normal"}
+{"id": 382, "path": "images/image_382", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object/Context Mismatch", "class": "normal"}
+{"id": 383, "path": "images/image_383", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion Impossibility", "class": "weird"}
+{"id": 384, "path": "images/image_384", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Function Error", "class": "weird"}
+{"id": 385, "path": "images/image_385", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Human-Animal Role Reversal", "class": "weird"}
+{"id": 386, "path": "images/image_386", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Habitats", "class": "normal"}
+{"id": 387, "path": "images/image_387", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Geographical Discrepancy", "class": "weird"}
+{"id": 388, "path": "images/image_388", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Inconsistent Sizes", "class": "weird"}
+{"id": 389, "path": "images/image_389", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Wildlife Activity Mismatch", "class": "weird"}
+{"id": 390, "path": "images/image_390", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 391, "path": "images/image_391", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Reversal", "class": "weird"}
+{"id": 392, "path": "images/image_392", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatches", "class": "weird"}
+{"id": 393, "path": "images/image_393", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "weird"}
+{"id": 394, "path": "images/image_394", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Refraction mismatch", "class": "normal"}
+{"id": 395, "path": "images/image_395", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Quantity/Multiplicity Error", "class": "weird"}
+{"id": 396, "path": "images/image_396", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Animal-Human Role Reversal", "class": "normal"}
+{"id": 397, "path": "images/image_397", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Logical Abilities in Animals", "class": "normal"}
+{"id": 398, "path": "images/image_398", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal in Nature", "class": "weird"}
+{"id": 399, "path": "images/image_399", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "normal"}
+{"id": 400, "path": "images/image_400", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Unusual object behavior", "class": "weird"}
+{"id": 401, "path": "images/image_401", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role reversal", "class": "normal"}
+{"id": 402, "path": "images/image_402", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "normal"}
+{"id": 403, "path": "images/image_403", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "normal"}
+{"id": 404, "path": "images/image_404", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Impossible Time Combination", "class": "normal"}
+{"id": 405, "path": "images/image_405", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Unexpected outcomes", "class": "normal"}
+{"id": 406, "path": "images/image_406", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Human-Animal Role Reversal", "class": "weird"}
+{"id": 407, "path": "images/image_407", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal", "class": "weird"}
+{"id": 408, "path": "images/image_408", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "weird"}
+{"id": 409, "path": "images/image_409", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Habits Alteration", "class": "normal"}
+{"id": 410, "path": "images/image_410", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "weird"}
+{"id": 411, "path": "images/image_411", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "weird"}
+{"id": 412, "path": "images/image_412", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Function Misuse", "class": "weird"}
+{"id": 413, "path": "images/image_413", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "weird"}
+{"id": 414, "path": "images/image_414", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 415, "path": "images/image_415", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Human-Animal Role Reversal", "class": "weird"}
+{"id": 416, "path": "images/image_416", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time/Technological Mismatch", "class": "weird"}
+{"id": 417, "path": "images/image_417", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Human-Animal Role Reversal", "class": "weird"}
+{"id": 418, "path": "images/image_418", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 419, "path": "images/image_419", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Travelling Objects", "class": "weird"}
+{"id": 420, "path": "images/image_420", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Social conventions", "class": "normal"}
+{"id": 421, "path": "images/image_421", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object/Context Mismatch", "class": "normal"}
+{"id": 422, "path": "images/image_422", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Environmental Misfit", "class": "normal"}
+{"id": 423, "path": "images/image_423", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Human-Animal Role Reversal", "class": "weird"}
+{"id": 424, "path": "images/image_424", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Inconsistent Sizes", "class": "weird"}
+{"id": 425, "path": "images/image_425", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplacement in Nature", "class": "weird"}
+{"id": 426, "path": "images/image_426", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unusual animal behavior", "class": "weird"}
+{"id": 427, "path": "images/image_427", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatches", "class": "normal"}
+{"id": 428, "path": "images/image_428", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Human-Animal Role Reversal", "class": "normal"}
+{"id": 429, "path": "images/image_429", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Human-Animal Role Reversal", "class": "normal"}
+{"id": 430, "path": "images/image_430", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Indoor/Outdoor Confusion", "class": "normal"}
+{"id": 431, "path": "images/image_431", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Misplacement", "class": "normal"}
+{"id": 432, "path": "images/image_432", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unnatural environment", "class": "normal"}
+{"id": 433, "path": "images/image_433", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Impossibilities", "class": "weird"}
+{"id": 434, "path": "images/image_434", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Misplacement", "class": "weird"}
+{"id": 435, "path": "images/image_435", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "weird"}
+{"id": 436, "path": "images/image_436", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Misplaced concepts", "class": "normal"}
+{"id": 437, "path": "images/image_437", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal ", "class": "weird"}
+{"id": 438, "path": "images/image_438", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "weird"}
+{"id": 439, "path": "images/image_439", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Unnatural Living Behavior", "class": "normal"}
+{"id": 440, "path": "images/image_440", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Logical Abilities in Animals", "class": "normal"}
+{"id": 441, "path": "images/image_441", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Defiance of Physical Properties", "class": "normal"}
+{"id": 442, "path": "images/image_442", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Timeless Artifact Misplacement", "class": "weird"}
+{"id": 443, "path": "images/image_443", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "normal"}
+{"id": 444, "path": "images/image_444", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Task-Tool Mismatch", "class": "weird"}
+{"id": 445, "path": "images/image_445", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Social conventions", "class": "normal"}
+{"id": 446, "path": "images/image_446", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "weird"}
+{"id": 447, "path": "images/image_447", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological rules", "class": "normal"}
+{"id": 448, "path": "images/image_448", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatches", "class": "weird"}
+{"id": 449, "path": "images/image_449", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplacement in Nature", "class": "normal"}
+{"id": 450, "path": "images/image_450", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Rules", "class": "weird"}
+{"id": 451, "path": "images/image_451", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size and Scale Illusion", "class": "weird"}
+{"id": 452, "path": "images/image_452", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "weird"}
+{"id": 453, "path": "images/image_453", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Unnatural Abilities", "class": "weird"}
+{"id": 454, "path": "images/image_454", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Function Misplacement", "class": "weird"}
+{"id": 455, "path": "images/image_455", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Indoor/Outdoor Confusion", "class": "normal"}
+{"id": 456, "path": "images/image_456", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role/Context Mismatch", "class": "weird"}
+{"id": 457, "path": "images/image_457", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "normal"}
+{"id": 458, "path": "images/image_458", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unlikely Animal Behavior", "class": "weird"}
+{"id": 459, "path": "images/image_459", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Misplaced concepts", "class": "normal"}
+{"id": 460, "path": "images/image_460", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "normal"}
+{"id": 461, "path": "images/image_461", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Period Incongruity", "class": "normal"}
+{"id": 462, "path": "images/image_462", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Animal-Human Role Reversal", "class": "weird"}
+{"id": 463, "path": "images/image_463", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object/Context Mismatch", "class": "weird"}
+{"id": 464, "path": "images/image_464", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unusual Habitat Inhabitants", "class": "normal"}
+{"id": 465, "path": "images/image_465", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object/Context Mismatch", "class": "weird"}
+{"id": 466, "path": "images/image_466", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 467, "path": "images/image_467", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Traveling Items", "class": "normal"}
+{"id": 468, "path": "images/image_468", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Human-Animal Role Reversal", "class": "normal"}
+{"id": 469, "path": "images/image_469", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature Inconsistency", "class": "weird"}
+{"id": 470, "path": "images/image_470", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "weird"}
+{"id": 471, "path": "images/image_471", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Inability to execute", "class": "weird"}
+{"id": 472, "path": "images/image_472", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unlikely Animal Habitats", "class": "weird"}
+{"id": 473, "path": "images/image_473", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unrealistic animal behavior", "class": "weird"}
+{"id": 474, "path": "images/image_474", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "normal"}
+{"id": 475, "path": "images/image_475", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 476, "path": "images/image_476", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object/Context Mismatch", "class": "normal"}
+{"id": 477, "path": "images/image_477", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time/Technological Mismatch", "class": "normal"}
+{"id": 478, "path": "images/image_478", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Quantity/Multiplicity Error", "class": "normal"}
+{"id": 479, "path": "images/image_479", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object shape", "class": "weird"}
+{"id": 480, "path": "images/image_480", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Usage Incongruence", "class": "weird"}
+{"id": 481, "path": "images/image_481", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Function Mix-Up", "class": "weird"}
+{"id": 482, "path": "images/image_482", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Clothing mismatch", "class": "weird"}
+{"id": 483, "path": "images/image_483", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Wildlife Activity Mismatch", "class": "normal"}
+{"id": 484, "path": "images/image_484", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatches", "class": "normal"}
+{"id": 485, "path": "images/image_485", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Traveling Items", "class": "weird"}
+{"id": 486, "path": "images/image_486", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Historical Anachronisms", "class": "weird"}
+{"id": 487, "path": "images/image_487", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Reversed Utility", "class": "weird"}
+{"id": 488, "path": "images/image_488", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Logical Abilities in Animals", "class": "weird"}
+{"id": 489, "path": "images/image_489", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Reversed roles", "class": "normal"}
+{"id": 490, "path": "images/image_490", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Displacement", "class": "weird"}
+{"id": 491, "path": "images/image_491", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Incorrect usage", "class": "weird"}
+{"id": 492, "path": "images/image_492", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Household Object Misuse", "class": "weird"}
+{"id": 493, "path": "images/image_493", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Function Error", "class": "normal"}
+{"id": 494, "path": "images/image_494", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "normal"}
+{"id": 495, "path": "images/image_495", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 496, "path": "images/image_496", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 497, "path": "images/image_497", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature Inconsistency", "class": "weird"}
+{"id": 498, "path": "images/image_498", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size and Scale Illusion", "class": "normal"}
+{"id": 499, "path": "images/image_499", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Abilities", "class": "weird"}
+{"id": 500, "path": "images/image_500", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Human Behavior in Animals", "class": "normal"}
+{"id": 501, "path": "images/image_501", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Meal Misplacement", "class": "normal"}
+{"id": 502, "path": "images/image_502", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unlikely Animal Behavior", "class": "normal"}
+{"id": 503, "path": "images/image_503", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Habits Alteration", "class": "weird"}
+{"id": 504, "path": "images/image_504", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Weather Mismatch", "class": "normal"}
+{"id": 505, "path": "images/image_505", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Human Behavior in Animals", "class": "weird"}
+{"id": 506, "path": "images/image_506", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Unusual object behavior", "class": "normal"}
+{"id": 507, "path": "images/image_507", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Human-Animal Role Reversal", "class": "normal"}
+{"id": 508, "path": "images/image_508", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object/Context Mismatch", "class": "weird"}
+{"id": 509, "path": "images/image_509", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal in Nature", "class": "normal"}
+{"id": 510, "path": "images/image_510", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Function Misplacement", "class": "normal"}
+{"id": 511, "path": "images/image_511", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Defiance of Physical Properties", "class": "weird"}
+{"id": 512, "path": "images/image_512", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Function Misuse", "class": "normal"}
+{"id": 513, "path": "images/image_513", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Displacement", "class": "normal"}
+{"id": 514, "path": "images/image_514", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal discrepancy", "class": "normal"}
+{"id": 515, "path": "images/image_515", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Misplaced concepts", "class": "weird"}
+{"id": 516, "path": "images/image_516", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion Impossibility", "class": "weird"}
+{"id": 517, "path": "images/image_517", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Rules", "class": "normal"}
+{"id": 518, "path": "images/image_518", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Spatial Misplacement", "class": "normal"}
+{"id": 519, "path": "images/image_519", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role reversal", "class": "weird"}
+{"id": 520, "path": "images/image_520", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal", "class": "weird"}
+{"id": 521, "path": "images/image_521", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Spatial Misplacement", "class": "weird"}
+{"id": 522, "path": "images/image_522", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "normal"}
+{"id": 523, "path": "images/image_523", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Historical Anachronisms", "class": "normal"}
+{"id": 524, "path": "images/image_524", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Function Mix-Up", "class": "normal"}
+{"id": 525, "path": "images/image_525", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unusual animal behavior", "class": "normal"}
+{"id": 526, "path": "images/image_526", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unnatural environment", "class": "weird"}
+{"id": 527, "path": "images/image_527", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological rules", "class": "weird"}
+{"id": 528, "path": "images/image_528", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Gravity Defiance", "class": "weird"}
+{"id": 529, "path": "images/image_529", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Timeless Artifact Misplacement", "class": "normal"}
+{"id": 530, "path": "images/image_530", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Task-Tool Mismatch", "class": "normal"}
+{"id": 531, "path": "images/image_531", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature Inconsistency", "class": "normal"}
+{"id": 532, "path": "images/image_532", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Time-Displaced Fashion Trends", "class": "weird"}
+{"id": 533, "path": "images/image_533", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Usage Incongruence", "class": "normal"}
+{"id": 534, "path": "images/image_534", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Habitats", "class": "weird"}
+{"id": 535, "path": "images/image_535", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Inversion", "class": "normal"}
+{"id": 536, "path": "images/image_536", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "normal"}
+{"id": 537, "path": "images/image_537", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Reversed roles", "class": "weird"}
+{"id": 538, "path": "images/image_538", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Fantasy object functionality", "class": "normal"}
+{"id": 539, "path": "images/image_539", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unusual Communication", "class": "weird"}
+{"id": 540, "path": "images/image_540", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Material Mismatch", "class": "weird"}
+{"id": 541, "path": "images/image_541", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Timeless Artifact Misplacement", "class": "normal"}
+{"id": 542, "path": "images/image_542", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unlikely Animal Habitats", "class": "normal"}
+{"id": 543, "path": "images/image_543", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "normal"}
+{"id": 544, "path": "images/image_544", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Displacement", "class": "weird"}
+{"id": 545, "path": "images/image_545", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Unusual Object Usage", "class": "normal"}
+{"id": 546, "path": "images/image_546", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 547, "path": "images/image_547", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Inappropriate Uses of Food", "class": "weird"}
+{"id": 548, "path": "images/image_548", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unusual Animal Behaviors", "class": "weird"}
+{"id": 549, "path": "images/image_549", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "weird"}
+{"id": 550, "path": "images/image_550", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish  ", "class": "weird"}
+{"id": 551, "path": "images/image_551", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "normal"}
+{"id": 552, "path": "images/image_552", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inappropriate Contexts for Objects", "class": "normal"}
+{"id": 553, "path": "images/image_553", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "weird"}
+{"id": 554, "path": "images/image_554", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Food Mismatch", "class": "normal"}
+{"id": 555, "path": "images/image_555", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unsuitable environment", "class": "weird"}
+{"id": 556, "path": "images/image_556", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Habits Alteration", "class": "normal"}
+{"id": 557, "path": "images/image_557", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 558, "path": "images/image_558", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "weird"}
+{"id": 559, "path": "images/image_559", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Reversal of Roles", "class": "weird"}
+{"id": 560, "path": "images/image_560", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological rules", "class": "weird"}
+{"id": 561, "path": "images/image_561", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size and Scale Illusion", "class": "weird"}
+{"id": 562, "path": "images/image_562", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Wildlife", "class": "normal"}
+{"id": 563, "path": "images/image_563", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unusual Behavior", "class": "normal"}
+{"id": 564, "path": "images/image_564", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "normal"}
+{"id": 565, "path": "images/image_565", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Activity mismatch", "class": "weird"}
+{"id": 566, "path": "images/image_566", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Misused Household Items", "class": "normal"}
+{"id": 567, "path": "images/image_567", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Confusion", "class": "normal"}
+{"id": 568, "path": "images/image_568", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 569, "path": "images/image_569", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "weird"}
+{"id": 570, "path": "images/image_570", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Decade/Time Period Mismatch", "class": "weird"}
+{"id": 571, "path": "images/image_571", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Social conventions", "class": "weird"}
+{"id": 572, "path": "images/image_572", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Quantity/Multiplicity Error", "class": "normal"}
+{"id": 573, "path": "images/image_573", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Temperature Expectation", "class": "normal"}
+{"id": 574, "path": "images/image_574", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Cultural knowledge", "class": "normal"}
+{"id": 575, "path": "images/image_575", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Impractical actions", "class": "normal"}
+{"id": 576, "path": "images/image_576", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "normal"}
+{"id": 577, "path": "images/image_577", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Displacement", "class": "normal"}
+{"id": 578, "path": "images/image_578", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "weird"}
+{"id": 579, "path": "images/image_579", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Confusion", "class": "weird"}
+{"id": 580, "path": "images/image_580", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Incorrect Animal Behavior", "class": "normal"}
+{"id": 581, "path": "images/image_581", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Confusion", "class": "normal"}
+{"id": 582, "path": "images/image_582", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "normal"}
+{"id": 583, "path": "images/image_583", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unusual Communication", "class": "normal"}
+{"id": 584, "path": "images/image_584", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object functionality", "class": "weird"}
+{"id": 585, "path": "images/image_585", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "weird"}
+{"id": 586, "path": "images/image_586", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object shape", "class": "weird"}
+{"id": 587, "path": "images/image_587", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Activity Misplacement", "class": "normal"}
+{"id": 588, "path": "images/image_588", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "normal"}
+{"id": 589, "path": "images/image_589", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Geographical Discrepancy", "class": "normal"}
+{"id": 590, "path": "images/image_590", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 591, "path": "images/image_591", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplacement in Nature", "class": "normal"}
+{"id": 592, "path": "images/image_592", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Cultural knowledge", "class": "normal"}
+{"id": 593, "path": "images/image_593", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Temperature Expectation", "class": "normal"}
+{"id": 594, "path": "images/image_594", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Ordinary Objects Acting as Animals", "class": "weird"}
+{"id": 595, "path": "images/image_595", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Anachronism (out of historical time placement)", "class": "weird"}
+{"id": 596, "path": "images/image_596", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Ordinary Objects Acting as Animals", "class": "normal"}
+{"id": 597, "path": "images/image_597", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Identity Swap", "class": "normal"}
+{"id": 598, "path": "images/image_598", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unrealistic animal behavior", "class": "weird"}
+{"id": 599, "path": "images/image_599", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Activity Misplacement", "class": "weird"}
+{"id": 600, "path": "images/image_600", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Human Behavior in Animals", "class": "normal"}
+{"id": 601, "path": "images/image_601", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Contradictory Adaptation", "class": "weird"}
+{"id": 602, "path": "images/image_602", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Inappropriate Uses of Food", "class": "normal"}
+{"id": 603, "path": "images/image_603", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Refraction mismatch", "class": "weird"}
+{"id": 604, "path": "images/image_604", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object shape", "class": "weird"}
+{"id": 605, "path": "images/image_605", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Food Mismatch", "class": "weird"}
+{"id": 606, "path": "images/image_606", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "normal"}
+{"id": 607, "path": "images/image_607", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Sensory Mismatch", "class": "normal"}
+{"id": 608, "path": "images/image_608", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time/Technological Mismatch", "class": "weird"}
+{"id": 609, "path": "images/image_609", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "normal"}
+{"id": 610, "path": "images/image_610", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Function Misplacement", "class": "weird"}
+{"id": 611, "path": "images/image_611", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object shape", "class": "normal"}
+{"id": 612, "path": "images/image_612", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Geographic mismatch", "class": "weird"}
+{"id": 613, "path": "images/image_613", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unsuitable environment", "class": "normal"}
+{"id": 614, "path": "images/image_614", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal in Nature", "class": "normal"}
+{"id": 615, "path": "images/image_615", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "weird"}
+{"id": 616, "path": "images/image_616", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Extreme Speed Discrepancies", "class": "weird"}
+{"id": 617, "path": "images/image_617", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unusual Behavior", "class": "weird"}
+{"id": 618, "path": "images/image_618", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "normal"}
+{"id": 619, "path": "images/image_619", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "normal"}
+{"id": 620, "path": "images/image_620", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "weird"}
+{"id": 621, "path": "images/image_621", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Geographical Discrepancy", "class": "normal"}
+{"id": 622, "path": "images/image_622", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object shape", "class": "weird"}
+{"id": 623, "path": "images/image_623", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Anomalies", "class": "normal"}
+{"id": 624, "path": "images/image_624", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Inappropriate Size or Scale", "class": "normal"}
+{"id": 625, "path": "images/image_625", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time/Technological Mismatch", "class": "normal"}
+{"id": 626, "path": "images/image_626", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual Food Ingredients", "class": "normal"}
+{"id": 627, "path": "images/image_627", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Identity Swap", "class": "weird"}
+{"id": 628, "path": "images/image_628", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Displacement", "class": "normal"}
+{"id": 629, "path": "images/image_629", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 630, "path": "images/image_630", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unnatural Social Interactions", "class": "normal"}
+{"id": 631, "path": "images/image_631", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 632, "path": "images/image_632", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Cultural knowledge", "class": "weird"}
+{"id": 633, "path": "images/image_633", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "weird"}
+{"id": 634, "path": "images/image_634", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Reversal of Roles in the Animal Kingdom", "class": "normal"}
+{"id": 635, "path": "images/image_635", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 636, "path": "images/image_636", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Extreme Speed Discrepancies", "class": "normal"}
+{"id": 637, "path": "images/image_637", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Contextual Element Error", "class": "normal"}
+{"id": 638, "path": "images/image_638", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "normal"}
+{"id": 639, "path": "images/image_639", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Reversal of Roles", "class": "normal"}
+{"id": 640, "path": "images/image_640", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time/Technological Mismatch", "class": "normal"}
+{"id": 641, "path": "images/image_641", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Anachronism (out of historical time placement)", "class": "normal"}
+{"id": 642, "path": "images/image_642", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inappropriate Contexts for Objects", "class": "weird"}
+{"id": 643, "path": "images/image_643", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 644, "path": "images/image_644", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Inappropriate Size or Scale", "class": "weird"}
+{"id": 645, "path": "images/image_645", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inappropriate Contexts for Objects", "class": "normal"}
+{"id": 646, "path": "images/image_646", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Social conventions", "class": "normal"}
+{"id": 647, "path": "images/image_647", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unusual Animal Behaviors", "class": "normal"}
+{"id": 648, "path": "images/image_648", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object functionality", "class": "normal"}
+{"id": 649, "path": "images/image_649", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Temperature Expectation", "class": "weird"}
+{"id": 650, "path": "images/image_650", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "weird"}
+{"id": 651, "path": "images/image_651", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Activity mismatch", "class": "normal"}
+{"id": 652, "path": "images/image_652", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal discrepancy", "class": "normal"}
+{"id": 653, "path": "images/image_653", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Abnormal Object Usage", "class": "weird"}
+{"id": 654, "path": "images/image_654", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Contradictory Adaptation", "class": "normal"}
+{"id": 655, "path": "images/image_655", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Comic Incongruence", "class": "weird"}
+{"id": 656, "path": "images/image_656", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Refraction mismatch", "class": "weird"}
+{"id": 657, "path": "images/image_657", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unusual animal behavior", "class": "weird"}
+{"id": 658, "path": "images/image_658", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Inappropriate human clothing for animals", "class": "weird"}
+{"id": 659, "path": "images/image_659", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Human Behavior in Animals", "class": "weird"}
+{"id": 660, "path": "images/image_660", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Displacement", "class": "weird"}
+{"id": 661, "path": "images/image_661", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Communication mismatch", "class": "weird"}
+{"id": 662, "path": "images/image_662", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "normal"}
+{"id": 663, "path": "images/image_663", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological rules", "class": "weird"}
+{"id": 664, "path": "images/image_664", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "weird"}
+{"id": 665, "path": "images/image_665", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inanimate Objects Performing Human Actions", "class": "normal"}
+{"id": 666, "path": "images/image_666", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "weird"}
+{"id": 667, "path": "images/image_667", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological rules", "class": "normal"}
+{"id": 668, "path": "images/image_668", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Implausible Food Properties", "class": "normal"}
+{"id": 669, "path": "images/image_669", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual Food Ingredients", "class": "weird"}
+{"id": 670, "path": "images/image_670", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Refraction mismatch", "class": "normal"}
+{"id": 671, "path": "images/image_671", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Inappropriate Size or Scale", "class": "normal"}
+{"id": 672, "path": "images/image_672", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Inappropriate Size or Scale", "class": "weird"}
+{"id": 673, "path": "images/image_673", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Inappropriate Size or Scale", "class": "normal"}
+{"id": 674, "path": "images/image_674", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unnatural environment", "class": "weird"}
+{"id": 675, "path": "images/image_675", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "normal"}
+{"id": 676, "path": "images/image_676", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unrealistic animal behavior", "class": "normal"}
+{"id": 677, "path": "images/image_677", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Temperature Expectation", "class": "weird"}
+{"id": 678, "path": "images/image_678", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "normal"}
+{"id": 679, "path": "images/image_679", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Refraction mismatch", "class": "normal"}
+{"id": 680, "path": "images/image_680", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Impractical actions", "class": "weird"}
+{"id": 681, "path": "images/image_681", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Historical anachronism", "class": "weird"}
+{"id": 682, "path": "images/image_682", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unusual animal behavior", "class": "normal"}
+{"id": 683, "path": "images/image_683", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "normal"}
+{"id": 684, "path": "images/image_684", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "weird"}
+{"id": 685, "path": "images/image_685", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Geographical Discrepancy", "class": "weird"}
+{"id": 686, "path": "images/image_686", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Impossible Tool Usage", "class": "weird"}
+{"id": 687, "path": "images/image_687", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Traveling Items", "class": "weird"}
+{"id": 688, "path": "images/image_688", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Sensory Mismatch", "class": "weird"}
+{"id": 689, "path": "images/image_689", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Historical anachronism", "class": "normal"}
+{"id": 690, "path": "images/image_690", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 691, "path": "images/image_691", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role reversal", "class": "weird"}
+{"id": 692, "path": "images/image_692", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time/Technological Mismatch", "class": "weird"}
+{"id": 693, "path": "images/image_693", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role/Context Mismatch", "class": "weird"}
+{"id": 694, "path": "images/image_694", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "weird"}
+{"id": 695, "path": "images/image_695", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unrealistic animal behavior", "class": "weird"}
+{"id": 696, "path": "images/image_696", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "normal"}
+{"id": 697, "path": "images/image_697", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "normal"}
+{"id": 698, "path": "images/image_698", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal discrepancy", "class": "weird"}
+{"id": 699, "path": "images/image_699", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Activity Misplacement", "class": "normal"}
+{"id": 700, "path": "images/image_700", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "weird"}
+{"id": 701, "path": "images/image_701", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Refraction mismatch", "class": "normal"}
+{"id": 702, "path": "images/image_702", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Cultural knowledge", "class": "weird"}
+{"id": 703, "path": "images/image_703", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Discrepancy  ", "class": "normal"}
+{"id": 704, "path": "images/image_704", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Inappropriate human clothing for animals", "class": "normal"}
+{"id": 705, "path": "images/image_705", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Function Error", "class": "normal"}
+{"id": 706, "path": "images/image_706", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Incorrect usage", "class": "weird"}
+{"id": 707, "path": "images/image_707", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Physical Law Violation", "class": "normal"}
+{"id": 708, "path": "images/image_708", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "normal"}
+{"id": 709, "path": "images/image_709", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "weird"}
+{"id": 710, "path": "images/image_710", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object shape", "class": "normal"}
+{"id": 711, "path": "images/image_711", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Animals", "class": "normal"}
+{"id": 712, "path": "images/image_712", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Inappropriate human clothing for animals", "class": "normal"}
+{"id": 713, "path": "images/image_713", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Emotion/Expression Mismatch", "class": "weird"}
+{"id": 714, "path": "images/image_714", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "weird"}
+{"id": 715, "path": "images/image_715", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "normal"}
+{"id": 716, "path": "images/image_716", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Abnormal Object Usage", "class": "normal"}
+{"id": 717, "path": "images/image_717", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Function Misplacement", "class": "normal"}
+{"id": 718, "path": "images/image_718", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Refraction mismatch", "class": "weird"}
+{"id": 719, "path": "images/image_719", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Inappropriate Climatic Conditions", "class": "weird"}
+{"id": 720, "path": "images/image_720", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inanimate Objects Performing Human Actions", "class": "weird"}
+{"id": 721, "path": "images/image_721", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Nutrition mismatch", "class": "weird"}
+{"id": 722, "path": "images/image_722", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Reversal of Roles in the Animal Kingdom", "class": "weird"}
+{"id": 723, "path": "images/image_723", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Social conventions", "class": "normal"}
+{"id": 724, "path": "images/image_724", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object/Context Mismatch", "class": "normal"}
+{"id": 725, "path": "images/image_725", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Urban Transport", "class": "weird"}
+{"id": 726, "path": "images/image_726", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "normal"}
+{"id": 727, "path": "images/image_727", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size and Scale Illusion", "class": "weird"}
+{"id": 728, "path": "images/image_728", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unrealistic communication", "class": "weird"}
+{"id": 729, "path": "images/image_729", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size and Scale Illusion", "class": "normal"}
+{"id": 730, "path": "images/image_730", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Function Error", "class": "weird"}
+{"id": 731, "path": "images/image_731", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "normal"}
+{"id": 732, "path": "images/image_732", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Incorrect usage", "class": "normal"}
+{"id": 733, "path": "images/image_733", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Discrepancy  ", "class": "weird"}
+{"id": 734, "path": "images/image_734", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Traveling Items", "class": "normal"}
+{"id": 735, "path": "images/image_735", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Inappropriate human clothing for animals", "class": "weird"}
+{"id": 736, "path": "images/image_736", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplacement in Nature", "class": "weird"}
+{"id": 737, "path": "images/image_737", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Refraction mismatch", "class": "normal"}
+{"id": 738, "path": "images/image_738", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Communication mismatch", "class": "normal"}
+{"id": 739, "path": "images/image_739", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Sensations and Reactions", "class": "weird"}
+{"id": 740, "path": "images/image_740", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal discrepancy", "class": "weird"}
+{"id": 741, "path": "images/image_741", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Inappropriate Size or Scale", "class": "weird"}
+{"id": 742, "path": "images/image_742", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "weird"}
+{"id": 743, "path": "images/image_743", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Animals", "class": "weird"}
+{"id": 744, "path": "images/image_744", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "weird"}
+{"id": 745, "path": "images/image_745", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role/Context Mismatch", "class": "normal"}
+{"id": 746, "path": "images/image_746", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "normal"}
+{"id": 747, "path": "images/image_747", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Contextual Element Error", "class": "weird"}
+{"id": 748, "path": "images/image_748", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Misused Household Items", "class": "weird"}
+{"id": 749, "path": "images/image_749", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Sensations and Reactions", "class": "normal"}
+{"id": 750, "path": "images/image_750", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unnatural environment", "class": "normal"}
+{"id": 751, "path": "images/image_751", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual Food Ingredients", "class": "weird"}
+{"id": 752, "path": "images/image_752", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Incorrect usage", "class": "normal"}
+{"id": 753, "path": "images/image_753", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Displacement", "class": "weird"}
+{"id": 754, "path": "images/image_754", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Activity Misplacement", "class": "weird"}
+{"id": 755, "path": "images/image_755", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Impossibility", "class": "normal"}
+{"id": 756, "path": "images/image_756", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Quantity/Multiplicity Error", "class": "weird"}
+{"id": 757, "path": "images/image_757", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unrealistic communication", "class": "normal"}
+{"id": 758, "path": "images/image_758", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Taking on Life", "class": "weird"}
+{"id": 759, "path": "images/image_759", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Impossible Tool Usage", "class": "normal"}
+{"id": 760, "path": "images/image_760", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Physical Law Violation", "class": "weird"}
+{"id": 761, "path": "images/image_761", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Misplaced concepts", "class": "weird"}
+{"id": 762, "path": "images/image_762", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Unusual Object Usage", "class": "weird"}
+{"id": 763, "path": "images/image_763", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "normal"}
+{"id": 764, "path": "images/image_764", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Inappropriate Climatic Conditions", "class": "normal"}
+{"id": 765, "path": "images/image_765", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "normal"}
+{"id": 766, "path": "images/image_766", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Sensations and Reactions", "class": "normal"}
+{"id": 767, "path": "images/image_767", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unusual Communication", "class": "weird"}
+{"id": 768, "path": "images/image_768", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Human-Wildlife Role Reversal", "class": "normal"}
+{"id": 769, "path": "images/image_769", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Misplaced Wildlife", "class": "weird"}
+{"id": 770, "path": "images/image_770", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "weird"}
+{"id": 771, "path": "images/image_771", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Misplaced concepts", "class": "normal"}
+{"id": 772, "path": "images/image_772", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object shape", "class": "normal"}
+{"id": 773, "path": "images/image_773", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 774, "path": "images/image_774", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "weird"}
+{"id": 775, "path": "images/image_775", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Travel Anomalies", "class": "normal"}
+{"id": 776, "path": "images/image_776", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Displacement", "class": "normal"}
+{"id": 777, "path": "images/image_777", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual Food Ingredients", "class": "normal"}
+{"id": 778, "path": "images/image_778", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Urban Transport", "class": "normal"}
+{"id": 779, "path": "images/image_779", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object/Context Mismatch", "class": "weird"}
+{"id": 780, "path": "images/image_780", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Nature phenomena mismatch", "class": "normal"}
+{"id": 781, "path": "images/image_781", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal in Nature", "class": "weird"}
+{"id": 782, "path": "images/image_782", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "normal"}
+{"id": 783, "path": "images/image_783", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Geographical Discrepancy", "class": "weird"}
+{"id": 784, "path": "images/image_784", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Anomalies", "class": "weird"}
+{"id": 785, "path": "images/image_785", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "weird"}
+{"id": 786, "path": "images/image_786", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Incorrect usage", "class": "weird"}
+{"id": 787, "path": "images/image_787", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Human-Wildlife Role Reversal", "class": "weird"}
+{"id": 788, "path": "images/image_788", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish  ", "class": "normal"}
+{"id": 789, "path": "images/image_789", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Comic Incongruence", "class": "normal"}
+{"id": 790, "path": "images/image_790", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size and Scale Illusion", "class": "normal"}
+{"id": 791, "path": "images/image_791", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "normal"}
+{"id": 792, "path": "images/image_792", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Decade/Time Period Mismatch", "class": "normal"}
+{"id": 793, "path": "images/image_793", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Unusual dish", "class": "normal"}
+{"id": 794, "path": "images/image_794", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Tool Misapplication", "class": "weird"}
+{"id": 795, "path": "images/image_795", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Activity Misplacement", "class": "normal"}
+{"id": 796, "path": "images/image_796", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Refraction mismatch", "class": "weird"}
+{"id": 797, "path": "images/image_797", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "weird"}
+{"id": 798, "path": "images/image_798", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Displacement", "class": "weird"}
+{"id": 799, "path": "images/image_799", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role reversal", "class": "normal"}
+{"id": 800, "path": "images/image_800", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Social conventions", "class": "weird"}
+{"id": 801, "path": "images/image_801", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological rules", "class": "normal"}
+{"id": 802, "path": "images/image_802", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Taking on Life", "class": "normal"}
+{"id": 803, "path": "images/image_803", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Time Travel Anomalies", "class": "weird"}
+{"id": 804, "path": "images/image_804", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "weird"}
+{"id": 805, "path": "images/image_805", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Impossibility", "class": "weird"}
+{"id": 806, "path": "images/image_806", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Cultural knowledge", "class": "weird"}
+{"id": 807, "path": "images/image_807", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Color inversion", "class": "weird"}
+{"id": 808, "path": "images/image_808", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "normal"}
+{"id": 809, "path": "images/image_809", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal", "class": "normal"}
+{"id": 810, "path": "images/image_810", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal discrepancy", "class": "normal"}
+{"id": 811, "path": "images/image_811", "commonsense_violation_group": "Food and Nutrition Mismatches", "commonsense_violation_subgroup": "Implausible Food Properties", "class": "weird"}
+{"id": 812, "path": "images/image_812", "commonsense_violation_group": "Color and Symbolic Inversions", "commonsense_violation_subgroup": "Symbolic inversion", "class": "weird"}
+{"id": 813, "path": "images/image_813", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Incorrect Animal Behavior", "class": "weird"}
+{"id": 814, "path": "images/image_814", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Habits Alteration", "class": "weird"}
+{"id": 815, "path": "images/image_815", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Cultural knowledge", "class": "normal"}
+{"id": 816, "path": "images/image_816", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Activity Misplacement", "class": "weird"}
+{"id": 817, "path": "images/image_817", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Geographic mismatch", "class": "normal"}
+{"id": 818, "path": "images/image_818", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Sensations and Reactions", "class": "weird"}
+{"id": 819, "path": "images/image_819", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Unnatural Social Interactions", "class": "weird"}
+{"id": 820, "path": "images/image_820", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Unrealistic animal behavior", "class": "normal"}
+{"id": 821, "path": "images/image_821", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "normal"}
+{"id": 822, "path": "images/image_822", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal", "class": "weird"}
+{"id": 823, "path": "images/image_823", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Confusion", "class": "weird"}
+{"id": 824, "path": "images/image_824", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inappropriate Contexts for Objects", "class": "weird"}
