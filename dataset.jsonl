@@ -79,22 +79,3 @@
 {"id": 89, "path": "images/image_89", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Activity mismatch", "class": "weird"}
 {"id": 90, "path": "images/image_90", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Age mismatch", "class": "weird"}
 {"id": 91, "path": "images/image_91", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Logical structure mismatch", "class": "weird"}
-{"id": 92, "path": "images/image_92", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Incorrect Animal Behavior", "class": "normal"}
-{"id": 93, "path": "images/image_93", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Indoor/Outdoor Confusion", "class": "weird"}
-{"id": 94, "path": "images/image_94", "commonsense_violation_group": "Physical and Biological Impossibilities", "commonsense_violation_subgroup": "Biological Impossibility", "class": "weird"}
-{"id": 95, "path": "images/image_95", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Unusual Object Usage", "class": "weird"}
-{"id": 96, "path": "images/image_96", "commonsense_violation_group": "Role and Identity Reversals", "commonsense_violation_subgroup": "Role Reversal", "class": "weird"}
-{"id": 97, "path": "images/image_97", "commonsense_violation_group": "Animal Behavior and Abilities Mismatches", "commonsense_violation_subgroup": "Animal Abilities", "class": "weird"}
-{"id": 98, "path": "images/image_98", "commonsense_violation_group": "Human and Social Behavior Mismatches", "commonsense_violation_subgroup": "Misplaced concepts", "class": "weird"}
-{"id": 99, "path": "images/image_99", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unexpected environments", "class": "normal"}
-{"id": 100, "path": "images/image_100", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Clothing Functionality", "class": "weird"}
-{"id": 101, "path": "images/image_101", "commonsense_violation_group": "Size and Spatial Mismatches", "commonsense_violation_subgroup": "Size and Weight Incongruity", "class": "weird"}
-{"id": 102, "path": "images/image_102", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Clothing mismatch", "class": "weird"}
-{"id": 103, "path": "images/image_103", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Displacement", "class": "normal"}
-{"id": 104, "path": "images/image_104", "commonsense_violation_group": "Time and Historical Context Mismatches", "commonsense_violation_subgroup": "Temporal Displacement", "class": "weird"}
-{"id": 105, "path": "images/image_105", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Object Reversal", "class": "normal"}
-{"id": 106, "path": "images/image_106", "commonsense_violation_group": "Weather and Seasonal Mismatches", "commonsense_violation_subgroup": "Seasonal Contradiction", "class": "weird"}
-{"id": 107, "path": "images/image_107", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Impractical Uses of Items", "class": "weird"}
-{"id": 108, "path": "images/image_108", "commonsense_violation_group": "Environmental and Habitat Mismatches", "commonsense_violation_subgroup": "Unsuitable environment", "class": "normal"}
-{"id": 109, "path": "images/image_109", "commonsense_violation_group": "Clothing and Attire Mismatches", "commonsense_violation_subgroup": "Clothing mismatch", "class": "normal"}
-{"id": 110, "path": "images/image_110", "commonsense_violation_group": "Object Function and Misuse", "commonsense_violation_subgroup": "Inappropriate tool usage", "class": "weird"}
