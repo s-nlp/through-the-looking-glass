@@ -1,5 +1,5 @@
 # Through the Looking Glass
-This is a small subset of our WEIRD dataset, which we used to evaluate the Through the Looking Glass (TGL) approach to detecting common sense violations in images. There are 80 images (due to GitHub limitations) along with annotations in `data.jsonl`. The full version of the dataset contains 824 images.
+This is a small subset of our WEIRD dataset, which we used to evaluate the Through the Looking Glass (TGL) approach to detecting common sense violations in images. There are 80 images (due to GitHub limitations) along with annotations in `dataset.jsonl`. The full version of the dataset contains 824 images.
 
 WEIRD contains image scenes representing normal or weird situations. The data set is synthetically generated based on the WHOOPS! benchmark. 
 
@@ -7,7 +7,7 @@ WEIRD contains image scenes representing normal or weird situations. The data se
 |:--:|:--:|
 | Absolutely normal image without any contradictions to our reality | Objects and beings in our world cannot cast the shadow of other objects and beings, so this image is strange |
 
-Example of the dataset sample:
+Example of the `dataset.jsonl` sample:
 ```
 {
   'id': 11, # A unique id of the sample
