@@ -5,7 +5,7 @@ Measuring how real images look is a complex task in artificial intelligence rese
 ## TLG
 
 Using the LVLM-generated atomic facts about the image, we train a classifier using hidden states from the textual encoder.
-![TLG](./images/text_encoder.png)
+![TLG](./figures/text_encoder.png)
 
 We use LVLMs to collect different atomic facts that describe different aspects of the scene in the image. To sample different facts we use the Diverse Beam Search. So, given an image $I$ and an LVLM, we sample N facts $F=\{ f_1, f_2, \dots, f_N \}$, where $F = \text{LVLM}(I)$.
 
@@ -20,6 +20,16 @@ $$A = \text{softmax}(W_a V + b_a).$$
 Finally, we classify the weighted average of representations by mapping it to a single common sense violation probability:
 
 $$\text{prob} = \sigma(W_c v_{\text{weighted}} + b_c).$$
+
+## Attention Scores Analysis
+
+TLG assigns higher attention weights to facts that violate common sense. In this example, the fact `The vacuum cleaner is silver and purple` has a lower score than the more inconsistent fact `The man is using a vacuum cleaner on the beach`. As a result, TLG gives higher scores to more strange facts, meaning that TLG could also be used as a pure text reality ranker, rating the realism of text facts.
+
+| ![Vacuum Normal](./figures/vacuum_normal.png) | ![Vacuum Strange](./figures/vacuum_strange.png) |
+|-------------------------------------------|--------------------------------------------|
+| *The child is vacuuming the floor* **0.60** | *The man is using a vacuum cleaner on the beach* **2.38** |
+| *This is a photo of a child vacuuming the floor* **0.12** | *This image features a man vacuuming the beach* **1.65** |
+| *A child vacuuming a wooden floor* **-0.28** | *The vacuum cleaner is silver* **-0.25** |
 
 ## WEIRD
 
