@@ -1,4 +1,28 @@
 # Through the Looking Glass
+
+Measuring how real images look is a complex task in artificial intelligence research. For example, an image of a boy with a vacuum cleaner in a desert violates common sense. We introduce a novel method, which we call Through the Looking Glass (TLG), to assess image common sense consistency using Large Vision-Language Models (LVLMs) and Transformer-based encoder. By leveraging LVLMs to extract atomic facts from these images, we obtain a mix of accurate facts. We proceed by fine-tuning a compact attention-pooling classifier over encoded atomic facts. Our TLG has achieved a new state-of-the-art performance on the WHOOPS! and WEIRD datasets while leveraging a compact fine-tuning component.
+
+## TLG
+
+Using the LVLM-generated atomic facts about the image, we train a classifier using hidden states from the textual encoder.
+![TLG](./images/text_encoder.png)
+
+We use LVLMs to collect different atomic facts that describe different aspects of the scene in the image. To sample different facts we use the Diverse Beam Search. So, given an image $I$ and an LVLM, we sample N facts $F=\{ f_1, f_2, \dots, f_N \}$, where $F = \text{LVLM}(I)$.
+
+Next, we use a frozen textual encoder to extract representations $H$ of the generated atomic facts
+
+$$H_i = \text{Encoder}(f_i).$$
+
+We compute a single fact representation $V_i$ by averaging the vectors of its tokens. Furthermore, we train an attention-based pooling classifier, which assings weights to individual representations: 
+
+$$A = \text{softmax}(W_a V + b_a).$$
+
+Finally, we classify the weighted average of representations by mapping it to a single common sense violation probability:
+
+$$\text{prob} = \sigma(W_c v_{\text{weighted}} + b_c).$$
+
+## WEIRD
+
 This is a small subset of our WEIRD dataset, which we used to evaluate the Through the Looking Glass (TGL) approach to detecting common sense violations in images. There are 80 images (due to GitHub limitations) along with annotations in `dataset.jsonl`. The full version of the dataset contains 824 images.
 
 WEIRD contains image scenes representing normal or weird situations. The data set is synthetically generated based on the WHOOPS! benchmark. 
