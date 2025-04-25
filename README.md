@@ -32,8 +32,9 @@ TLG assigns higher attention weights to facts that violate common sense. In this
 | *A child vacuuming a wooden floor* **-0.28** | *The vacuum cleaner is silver* **-0.25** |
 
 ## WEIRD
+See the full [WEIRD dataset](https://huggingface.co/datasets/MERA-evaluation/WEIRD) in HuggingFace.
 
-This is a small subset of our WEIRD dataset, which we used to evaluate the Through the Looking Glass (TGL) approach to detecting common sense violations in images. There are 80 images (due to GitHub limitations) along with annotations in `dataset.jsonl`. The full version of the dataset contains 824 images.
+We uploaded to GitHub a small subset of our WEIRD dataset, which we used to evaluate the Through the Looking Glass (TGL) approach to detecting common sense violations in images. There are 80 images along with annotations in `dataset.jsonl`. The full version of the dataset contains 824 images.
 
 WEIRD contains image scenes representing normal or weird situations. The data set is synthetically generated based on the WHOOPS! benchmark. 
 
